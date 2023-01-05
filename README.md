@@ -1,1 +1,1 @@
-[![Omkars's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarxpatel)](https://github.com/anuraghazra/github-readme-stats)
+[![Omkars's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarxpatel&layout=compact&theme=react&hide_border=true)
