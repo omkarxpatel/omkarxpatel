@@ -1,2 +1,2 @@
 <p align="center"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=omkarxpatel&layout=compact&theme=dark&title_color=AFE1AF&show_icons=true" /></p>
-<p align="center"><img alt="My GitHub Streaks" src="https://streak-stats.demolab.com/?user=omkarxpatel&background=0d1117&currStreakNum=AFE1AF&sideNums=AFE1AF&currStreakLabel=AFE1AF&sideLabels=AFE1AF&dates=AFE1AF&fire=AFE1AF&ring=AFE1AF&locale=en&type=svg&hide_border=true" /></p>
+<p align="center"><img alt="My GitHub Streaks" src="https://streak-stats.demolab.com/?user=omkarxpatel&background=0d1117&currStreakNum=AFE1AF&sideNums=AFE1AF&dates=AFE1AF&fire=AFE1AF&ring=AFE1AF&locale=en&type=svg&hide_border=true" /></p>
