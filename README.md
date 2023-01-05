@@ -2,4 +2,4 @@
 
 <br />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarxpatel&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarxpatel&layout=compact&theme=transparent&hide_border=true)
