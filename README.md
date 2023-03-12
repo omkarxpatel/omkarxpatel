@@ -7,3 +7,5 @@
 <!-- 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/omkarxpatel/ommkarxpatel/output/github-contribution-grid-snake.svg)
  -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarxpatel&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
