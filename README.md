@@ -7,3 +7,4 @@
 
 
 <p align = "center"><img al="My Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=omkarxpatel&langs_count=8&theme=dark&icon_color=808080&text_color=808080&title_color=808080"/>
+  
