@@ -9,4 +9,3 @@
  -->
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarxpatel&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7d64ad2b-af9a-4467-be4c-e9206beee3e5/deploy-status)](https://app.netlify.com/sites/omkarpatel/deploys)
