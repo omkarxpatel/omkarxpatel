@@ -1,7 +1,7 @@
 
 <p align="center"> <href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=AFE1AF&center=true&width=435&lines=Welcome+To+My+Github+Page" alt="Typing SVG" /></p>
  
-
+<!--
 <p align="center"><img alt="My Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omkarxpatel&layout=compact&theme=dark&title_color=AFE1AF&show_icons=true&text_color=808080&count_private=True&include_all_commits=True&hide=contribs" /></p> -->
 <!--
 <p align = "center"><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarxpatel&layout=compact&theme=dark" /></p>
